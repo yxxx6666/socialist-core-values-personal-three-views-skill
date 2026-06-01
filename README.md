@@ -8,9 +8,9 @@
 
 ## 下载
 
-- 点击下载完整 Skill ZIP
-- 查看原始 SKILL.md
-- 打开 GitHub 仓库
+- [点击下载完整 Skill ZIP](https://github.com/yxxx6666/socialist-core-values-personal-three-views-skill/archive/refs/heads/main.zip)
+- [查看原始 SKILL.md](https://raw.githubusercontent.com/yxxx6666/socialist-core-values-personal-three-views-skill/main/SKILL.md)
+- [打开 GitHub 仓库](https://github.com/yxxx6666/socialist-core-values-personal-three-views-skill)
 
 ## 这个 Skill 是什么？
 
