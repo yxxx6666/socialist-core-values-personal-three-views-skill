@@ -6,10 +6,29 @@
 > 核心原则：**分析行为，不审判人格；判断倾向，不随便扣帽子。**
 > 
 
+## 一键安装
+
+如果你的 AI 工具支持 Agent Skills，可以使用以下命令安装：
+
+```bash
+npx skills add yxxx6666/socialist-core-values-personal-three-views-skill
+```
+
+也可以访问：
+
+```
+https://skills.sh/yxxx6666/socialist-core-values-personal-three-views-skill
+```
+
+或直接使用 GitHub 仓库地址：
+
+```
+https://github.com/yxxx6666/socialist-core-values-personal-three-views-skill
+```
+
 ## 下载
 
 - [点击下载完整 Skill ZIP](https://github.com/yxxx6666/socialist-core-values-personal-three-views-skill/archive/refs/heads/main.zip)
-- [打开 GitHub 仓库](https://github.com/yxxx6666/socialist-core-values-personal-three-views-skill)
 
 ## 这个 Skill 是什么？
 
