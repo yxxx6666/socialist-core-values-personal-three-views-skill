@@ -1,3 +1,8 @@
+---
+name: socialist-core-values-personal-three-views
+description: 用社会主义核心价值观作为分析坐标，帮助分析个人三观、关系健康度、职场合作风险、自我反思和小说角色价值观。适用于用户想判断一个人是否靠谱、一段关系是否健康、角色是否三观崩坏等场景。
+---
+
 # 社会主义核心价值观分析个人三观 Skill
 
 ## 1. Skill 定位
